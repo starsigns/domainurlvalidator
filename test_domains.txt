@@ -1,0 +1,8 @@
+google.com
+facebook.com
+invalid-domain-xyz-123.com
+microsoft.com
+nonexistent-domain-test.com
+github.com
+stackoverflow.com
+invalid-test-domain.xyz
